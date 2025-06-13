@@ -9,7 +9,21 @@
  with beautiful interface with next and shadcn ui
 
 
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_ZGVzaXJlZC1pbXAtMzkuY2xlcmsuYWNjb3VudHMuZGV2JA
+CLERK_SECRET_KEY=sk_test_jOPlinLghXmFC4KQk8axaG7bP7uTIaW2wgczY0fM1Z 
+#these are our environment variables
+
+NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
+NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
+NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/onboarding
+NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/onboarding
+DATABASE_URL=postgresql://sparsh:npg_8XWC3ABzcfNb@ep-shiny-butterfly-a8127ejn-pooler.eastus2.azure.neon.tech/sensai?sslmode=require
+
+
+
  on the second line...we have list of features of our website and other lists...
+
+
 
  call to action button
 
